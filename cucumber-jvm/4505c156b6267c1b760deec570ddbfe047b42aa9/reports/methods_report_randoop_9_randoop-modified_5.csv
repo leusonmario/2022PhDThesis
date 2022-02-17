@@ -1,0 +1,10 @@
+Methods called,Number of times(Original),Number of times(Modified),Modified - Original,Percentage(Gain/Loss),Number of times(Original-Normalized),Number of times(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+"public cuke4duke.internal.java.JavaLanguage cuke4duke.internal.java.SerializedObjectSupporter.deserializeObjectJavaLanguage2() throws java.io.IOException",2859,5170,2311,"80.83%",1.5445705024311183,3.1163351416515974,1.5717646392204792,"101.76%"
+"public java.lang.String cuke4duke.internal.java.SerializedObjectSupporter.deserializeObjectString1() throws java.io.IOException",5419,4859,-560,"-10.33%",2.9276066990815774,2.928872814948764,0.0012661158671867234,"0.04%"
+"public cuke4duke.internal.java.JavaLanguage cuke4duke.internal.java.SerializedObjectSupporter.deserializeObjectJavaLanguage1() throws java.io.IOException",5796,4708,-1088,"-18.77%",3.1312803889789302,2.8378541289933694,-0.2934262599855608,"-9.37%"
+"public java.lang.String cuke4duke.internal.java.SerializedObjectSupporter.deserializeObjectComparator1() throws java.io.IOException",545,438,-107,"-19.63%",0.29443544030253915,0.2640144665461121,-0.03042097375642705,"-10.33%"
+"java.lang.Object()",1,1,0,"0.0%",0.0005402485143165856,0.0006027727546714888,6.252424035490319e-05,"11.57%"
+"public final native java.lang.Class java.lang.Object.getClass()",590,446,-144,"-24.41%",0.3187466234467855,0.26883664858348405,-0.049909974863301454,"-15.66%"
+"cuke4duke.internal.java.SerializedObjectSupporter()",1849,1657,-192,"-10.38%",0.9989195029713668,0.9987944544906571,-0.00012504848070971075,"-0.01%"
+"public java.lang.String cuke4duke.internal.java.SerializedObjectSupporter.deserializeObjectString2() throws java.io.IOException",3574,2699,-875,"-24.48%",1.930848190167477,1.6268836648583485,-0.30396452530912854,"-15.74%"
+"cuke4duke.internal.java.JavaLanguage(cuke4duke.internal.language.LanguageMixin)",1,1,0,"0.0%",0.0005402485143165856,0.0006027727546714888,6.252424035490319e-05,"11.57%"
