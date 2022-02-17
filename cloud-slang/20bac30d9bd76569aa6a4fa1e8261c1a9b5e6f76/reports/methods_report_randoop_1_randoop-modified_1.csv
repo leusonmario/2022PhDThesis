@@ -1,0 +1,13 @@
+Methods called,Number of times(Original),Number of times(Modified),Modified - Original,Percentage(Gain/Loss),Number of times(Original-Normalized),Number of times(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+"io.cloudslang.lang.compiler.SlangSource[0]",1,1,0,"0.0%",0.07692307692307693,0.07692307692307693,0.0,"0.0%"
+"public void io.cloudslang.lang.api.SlangImpl.subscribeOnAllEvents(io.cloudslang.score.events.ScoreEventListener)",1,1,0,"0.0%",0.07692307692307693,0.07692307692307693,0.0,"0.0%"
+"public void io.cloudslang.lang.api.SlangImpl.unSubscribeOnEvents(io.cloudslang.score.events.ScoreEventListener)",1,1,0,"0.0%",0.07692307692307693,0.07692307692307693,0.0,"0.0%"
+"java.lang.String[2]",4,4,0,"0.0%",0.3076923076923077,0.3076923076923077,0.0,"0.0%"
+"java.lang.String[1]",2,2,0,"0.0%",0.15384615384615385,0.15384615384615385,0.0,"0.0%"
+"io.cloudslang.lang.api.SlangImpl()",12,12,0,"0.0%",0.9230769230769231,0.9230769230769231,0.0,"0.0%"
+"public static boolean java.util.Collections.addAll(java.util.Collection|java.lang.Object[])",7,7,0,"0.0%",0.5384615384615384,0.5384615384615384,0.0,"0.0%"
+"public void io.cloudslang.lang.api.SlangImpl.subscribeOnEvents(io.cloudslang.score.events.ScoreEventListener|java.util.Set)",7,7,0,"0.0%",0.5384615384615384,0.5384615384615384,0.0,"0.0%"
+"public final native java.lang.Class java.lang.Object.getClass()",2,2,0,"0.0%",0.15384615384615385,0.15384615384615385,0.0,"0.0%"
+"java.lang.Object()",1,1,0,"0.0%",0.07692307692307693,0.07692307692307693,0.0,"0.0%"
+"public io.cloudslang.lang.entities.CompilationArtifact io.cloudslang.lang.api.SlangImpl.compile(io.cloudslang.lang.compiler.SlangSource|java.util.Set)",2,2,0,"0.0%",0.15384615384615385,0.15384615384615385,0.0,"0.0%"
+"java.util.LinkedHashSet()",7,7,0,"0.0%",0.5384615384615384,0.5384615384615384,0.0,"0.0%"
