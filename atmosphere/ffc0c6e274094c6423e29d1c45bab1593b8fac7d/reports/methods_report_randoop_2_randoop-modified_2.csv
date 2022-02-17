@@ -1,0 +1,4 @@
+Methods called,Number of times(Original),Number of times(Modified),Modified - Original,Percentage(Gain/Loss),Number of times(Original-Normalized),Number of times(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+"java.lang.Object()",1,1,0,"0.0%",0.5,0.5,0.0,"0.0%"
+"public final native java.lang.Class java.lang.Object.getClass()",1,1,0,"0.0%",0.5,0.5,0.0,"0.0%"
+"org.atmosphere.cpr.AtmosphereConfig(org.atmosphere.cpr.AtmosphereFramework)",1,1,0,"0.0%",0.5,0.5,0.0,"0.0%"
