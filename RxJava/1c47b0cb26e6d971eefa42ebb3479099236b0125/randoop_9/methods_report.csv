@@ -1,0 +1,17 @@
+Methods called,Number of times,Number of times (Normalized)
+"public rx.Subscription rx.Scheduler.schedulePeriodically(rx.util.functions.Func1,long,long,java.util.concurrent.TimeUnit)",2863,0.09819254381452139
+"public rx.Subscription rx.Scheduler.schedulePeriodically(rx.util.functions.Action0,long,long,java.util.concurrent.TimeUnit)",2914,0.09994169496175875
+"public rx.Subscription rx.Scheduler.schedulePeriodically(rx.util.functions.Func0,long,long,java.util.concurrent.TimeUnit)",2776,0.09520869773982234
+"public void rx.concurrency.TestScheduler.advanceTimeBy(long,java.util.concurrent.TimeUnit)",2849,0.09771238467606407
+"rx.concurrency.TestScheduler()",29156,0.9999657029186816
+"public void rx.concurrency.TestScheduler.triggerActions()",2320,0.07956922865864115
+"public void rx.concurrency.TestScheduler.advanceTimeTo(long,java.util.concurrent.TimeUnit)",2854,0.09788387008265596
+"public long rx.concurrency.TestScheduler.now()",71326,2.446273622114758
+"public final native java.lang.Class java.lang.Object.getClass()",2441,0.0837191754981651
+"public rx.Subscription rx.Scheduler.schedule(rx.util.functions.Func1,long,java.util.concurrent.TimeUnit)",2878,0.09870700003429708
+"public rx.Subscription rx.Scheduler.schedule(rx.util.functions.Action0)",95236,3.2663168364372193
+"public rx.Subscription rx.Scheduler.schedule(rx.util.functions.Func0)",88285,3.0279178241931612
+"public rx.Subscription rx.Scheduler.schedule(rx.util.functions.Action0,long,java.util.concurrent.TimeUnit)",2897,0.0993586445793463
+"public rx.Subscription rx.Scheduler.schedule(rx.util.functions.Func0,long,java.util.concurrent.TimeUnit)",2941,0.10086771615735501
+"public rx.Subscription rx.Scheduler.schedule(rx.util.functions.Func1)",59208,2.0306615906986316
+"java.lang.Object()",1,3.4297081318379805E-5

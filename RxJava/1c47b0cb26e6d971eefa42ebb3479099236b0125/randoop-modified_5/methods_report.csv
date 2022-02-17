@@ -1,0 +1,11 @@
+Methods called,Number of times,Number of times (Normalized)
+"rx.concurrency.TestScheduler()",31246,0.9999679969277051
+"public rx.Subscription rx.Scheduler.schedulePeriodically(rx.util.functions.Action0,long,long,java.util.concurrent.TimeUnit)",6077,0.1944826703363523
+"public void rx.concurrency.TestScheduler.triggerActions()",59164,1.8934297692578488
+"public void rx.concurrency.TestScheduler.advanceTimeBy(long,java.util.concurrent.TimeUnit)",5955,0.19057829551636957
+"public void rx.concurrency.TestScheduler.advanceTimeTo(long,java.util.concurrent.TimeUnit)",5959,0.19070630780554934
+"public long rx.concurrency.TestScheduler.now()",175248,5.6084744135437
+"java.lang.Object()",1,3.2003072294940317E-5
+"public final native java.lang.Class java.lang.Object.getClass()",3797,0.12151566550388837
+"public rx.Subscription rx.Scheduler.schedule(rx.util.functions.Action0)",150166,4.805773354242008
+"public rx.Subscription rx.Scheduler.schedule(rx.util.functions.Action0,long,java.util.concurrent.TimeUnit)",5789,0.18526578551540948

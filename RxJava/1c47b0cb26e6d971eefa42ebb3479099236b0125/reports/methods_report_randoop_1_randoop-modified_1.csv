@@ -1,0 +1,11 @@
+Methods called,Number of times(Original),Number of times(Modified),Modified - Original,Percentage(Gain/Loss),Number of times(Original-Normalized),Number of times(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+"rx.concurrency.TestScheduler()",31077,31332,255,"0.82%",0.9999678228972263,0.9999680847668592,2.6186963286711773e-07,"0.0%"
+"public rx.Subscription rx.Scheduler.schedulePeriodically(rx.util.functions.Action0|long|long|java.util.concurrent.TimeUnit)",6053,6098,45,"0.74%",0.19476800308900186,0.1946190916924648,-0.00014891139653705476,"-0.08%"
+"public void rx.concurrency.TestScheduler.triggerActions()",58747,59374,627,"1.07%",1.8903082566445717,1.8949350525005586,0.004626795855986909,"0.24%"
+"public void rx.concurrency.TestScheduler.advanceTimeBy(long|java.util.concurrent.TimeUnit)",5917,5974,57,"0.96%",0.19039191711178324,0.19066160278300834,0.000269685671225095,"0.14%"
+"public void rx.concurrency.TestScheduler.advanceTimeTo(long|java.util.concurrent.TimeUnit)",5932,5979,47,"0.79%",0.19087457365338825,0.19082117894871223,-5.339470467602414e-05,"-0.03%"
+"public long rx.concurrency.TestScheduler.now()",174131,175831,1700,"0.98%",5.603031083081279,5.611687358376153,0.008656275294873339,"0.15%"
+"public rx.Subscription rx.Scheduler.schedule(rx.util.functions.Action0|long|java.util.concurrent.TimeUnit)",5766,5804,38,"0.66%",0.18553317459295965,0.18523601314907606,-0.0002971614438835868,"-0.16%"
+"java.lang.Object()",1,1,0,"0.0%",3.217710277366626e-05,3.1915233140778095e-05,-2.618696328881648e-07,"-0.81%"
+"public final native java.lang.Class java.lang.Object.getClass()",3783,3809,26,"0.69%",0.12172597979277945,0.12156512303322375,-0.000160856759555697,"-0.13%"
+"public rx.Subscription rx.Scheduler.schedule(rx.util.functions.Action0)",149260,150615,1355,"0.91%",4.802754359997426,4.806912839498293,0.004158479500866896,"0.09%"

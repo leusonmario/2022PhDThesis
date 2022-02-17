@@ -1,0 +1,10 @@
+Classes of objects created,Number of objects created,Number of unique objects manipulated,Number of objects created (Normalized),Number of unique objects manipulated (Normalized)
+class java.util.PriorityQueue,23751,11589,1.4217898832684825,0.693744387907812
+class rx.concurrency.TestScheduler$CompareActionsByTime,40490,1,2.4238252020353186,5.986231667165519E-5
+class java.lang.Object,1,1,5.986231667165519E-5,5.986231667165519E-5
+class rx.subscriptions.Subscriptions$3,10235,1,0.612690811134391,5.986231667165519E-5
+class java.util.Collections$ReverseComparator2,32861,22656,1.9671355881472612,1.3562406465130201
+class rx.concurrency.TestScheduler,15059,15059,0.9014666267584556,0.9014666267584556
+class java.util.Comparator$$Lambda$209/1208432687,18557,1,1.1108650104759055,5.986231667165519E-5
+class java.lang.Class,1661,7,0.09943130799161927,4.190362167015863E-4
+class java.lang.Long,37825,9,2.2642921281053576,5.387608500448968E-4

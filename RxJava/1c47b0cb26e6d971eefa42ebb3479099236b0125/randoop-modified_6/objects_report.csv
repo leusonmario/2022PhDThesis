@@ -1,0 +1,5 @@
+Classes of objects created,Number of objects created,Number of unique objects manipulated,Number of objects created (Normalized),Number of unique objects manipulated (Normalized)
+class rx.concurrency.TestScheduler$1,181667,1,5.758066561014263,3.1695721077654516E-5
+class rx.concurrency.TestScheduler,31550,31550,1.0,1.0
+class java.lang.Class,2655,2,0.08415213946117274,6.339144215530903E-5
+class java.lang.Long,65496,1,2.0759429477020603,3.1695721077654516E-5
