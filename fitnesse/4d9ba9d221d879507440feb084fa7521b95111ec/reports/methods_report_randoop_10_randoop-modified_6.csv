@@ -1,0 +1,9 @@
+Methods called,Number of times(Original),Number of times(Modified),Modified - Original,Percentage(Gain/Loss),Number of times(Original-Normalized),Number of times(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+"public void fitnesse.testsystems.slim.tables.SlimTableFactoryTest.commentTableShouldReturnNull()",1,1,0,"0.0%",0.14285714285714285,0.14285714285714285,0.0,"0.0%"
+"fitnesse.testsystems.slim.tables.SlimTableFactoryTest()",6,6,0,"0.0%",0.8571428571428571,0.8571428571428571,0.0,"0.0%"
+"public void fitnesse.testsystems.slim.tables.SlimTableFactoryTest.checkTableTypeDefineUsedForTable()",1,1,0,"0.0%",0.14285714285714285,0.14285714285714285,0.0,"0.0%"
+"public final native java.lang.Class java.lang.Object.getClass()",2,2,0,"0.0%",0.2857142857142857,0.2857142857142857,0.0,"0.0%"
+"java.lang.Object()",1,1,0,"0.0%",0.14285714285714285,0.14285714285714285,0.0,"0.0%"
+"public void fitnesse.testsystems.slim.tables.SlimTableFactoryTest.checkTableTypeDefinesIgnoredIfDifferentSpecified()",1,1,0,"0.0%",0.14285714285714285,0.14285714285714285,0.0,"0.0%"
+"public void fitnesse.testsystems.slim.tables.SlimTableFactoryTest.shouldCreateCorrectSlimTableForTablesType()",1,1,0,"0.0%",0.14285714285714285,0.14285714285714285,0.0,"0.0%"
+"public void fitnesse.testsystems.slim.tables.SlimTableFactoryTest.tableTypeStartingWithcommentColonShouldReturnNull()",1,1,0,"0.0%",0.14285714285714285,0.14285714285714285,0.0,"0.0%"

@@ -1,0 +1,6 @@
+Methods called,Number of times(Original),Number of times(Modified),Modified - Original,Percentage(Gain/Loss),Number of times(Original-Normalized),Number of times(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+"public fitnesse.testsystems.slim.tables.SlimTable fitnesse.testsystems.slim.tables.SlimTableFactory.makeSlimTable(fitnesse.testsystems.slim.Table|java.lang.String|fitnesse.testsystems.slim.SlimTestContext)",15852,15351,-501,"-3.16%",0.5399734305276425,0.5393696637503953,-0.0006037667772471611,"-0.11%"
+"fitnesse.testsystems.slim.tables.SlimTableFactory()",29356,28460,-896,"-3.05%",0.9999659365739006,0.9999648642001335,-1.0723737671192168e-06,"-0.0%"
+"public final native java.lang.Class java.lang.Object.getClass()",11809,11461,-348,"-2.95%",0.4022549988077801,0.4026914022697727,0.00043640346199258495,"0.11%"
+"java.lang.Object()",1,1,0,"0.0%",3.4063426099397074e-05,3.513579986648396e-05,1.0723737670868873e-06,"3.15%"
+"public fitnesse.testsystems.slim.tables.SlimTableFactory fitnesse.testsystems.slim.tables.SlimTableFactory.copy()",453202,457261,4059,"0.9%",15.437612835098955,16.066230982748323,0.6286181476493677,"4.07%"
