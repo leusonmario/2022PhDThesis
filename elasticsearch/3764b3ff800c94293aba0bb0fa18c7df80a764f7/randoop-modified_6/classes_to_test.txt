@@ -1,0 +1,2 @@
+org.elasticsearch.rest.action.cat.RestIndicesAction
+org.elasticsearch.http.netty.NettyHttpRequest|org.elasticsearch.common.Table
