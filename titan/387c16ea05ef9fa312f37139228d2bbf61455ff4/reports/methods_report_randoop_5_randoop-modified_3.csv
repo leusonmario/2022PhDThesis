@@ -1,0 +1,10 @@
+Methods called,Number of times(Original),Number of times(Modified),Modified - Original,Percentage(Gain/Loss),Number of times(Original-Normalized),Number of times(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+"public static void com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization.initialize(com.thinkaurelius.titan.graphdb.database.serialize.Serializer)",7,24,17,"242.86%",0.08433734939759036,0.18461538461538463,0.10027803521779427,"118.9%"
+"public static int com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization.RESERVED_ID_OFFSET",20,20,0,"0.0%",0.24096385542168675,0.15384615384615385,-0.08711770157553289,"-36.15%"
+"com.thinkaurelius.titan.graphdb.database.serialize.kryo.KryoSerializer(boolean)",38,85,47,"123.68%",0.4578313253012048,0.6538461538461539,0.19601482854494906,"42.81%"
+"com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization()",1,1,0,"0.0%",0.012048192771084338,0.007692307692307693,-0.004355885078776645,"-36.15%"
+"public static int com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization.KRYO_OFFSET",1,1,0,"0.0%",0.012048192771084338,0.007692307692307693,-0.004355885078776645,"-36.15%"
+"public final native java.lang.Class java.lang.Object.getClass()",11,26,15,"136.36%",0.13253012048192772,0.2,0.06746987951807229,"50.91%"
+"java.lang.Object()",1,1,0,"0.0%",0.012048192771084338,0.007692307692307693,-0.004355885078776645,"-36.15%"
+"public java.lang.Object com.thinkaurelius.titan.graphdb.database.serialize.kryo.KryoSerializer.readClassAndObject(com.thinkaurelius.titan.diskstorage.ReadBuffer)",6,18,12,"200.0%",0.07228915662650602,0.13846153846153847,0.06617238183503245,"91.54%"
+"public com.thinkaurelius.titan.graphdb.database.serialize.DataOutput com.thinkaurelius.titan.graphdb.database.serialize.kryo.KryoSerializer.getDataOutput(int|boolean)",111,225,114,"102.7%",1.3373493975903614,1.7307692307692308,0.3934198331788694,"29.42%"
