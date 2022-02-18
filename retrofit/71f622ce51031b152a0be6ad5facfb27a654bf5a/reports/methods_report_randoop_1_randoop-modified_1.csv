@@ -1,0 +1,11 @@
+Methods called,Number of times(Original),Number of times(Modified),Modified - Original,Percentage(Gain/Loss),Number of times(Original-Normalized),Number of times(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+"public java.lang.String retrofit.client.Request.getUrl()",29994,36953,6959,"23.2%",1.5554633615101385,2.0054813849994573,0.45001802348931874,"28.93%"
+"public static boolean java.util.Collections.addAll(java.util.Collection|java.lang.Object[])",13459,14623,1164,"8.65%",0.6979723072136078,0.7936068598719201,0.09563455265831233,"13.7%"
+"retrofit.client.Request(java.lang.String| java.lang.String| java.util.List| retrofit.mime.TypedOutput)",82804,95568,12764,"15.41%",4.294145101903231,5.186584174535982,0.8924390726327509,"20.78%"
+"public final native java.lang.Class java.lang.Object.getClass()",6710,5582,-1128,"-16.81%",0.3479749001711352,0.30294149571258006,-0.04503340445855514,"-12.94%"
+"retrofit.client.Header[0]",13459,14623,1164,"8.65%",0.6979723072136078,0.7936068598719201,0.09563455265831233,"13.7%"
+"public java.lang.String retrofit.client.Request.getMethod()",26944,18191,-8753,"-32.49%",1.3972929523414406,0.9872462824270053,-0.4100466699144353,"-29.35%"
+"public retrofit.mime.TypedOutput retrofit.client.Request.getBody()",36694,28473,-8221,"-22.4%",1.9029196701758024,1.545262129599479,-0.3576575405763234,"-18.8%"
+"java.util.ArrayList()",13459,14623,1164,"8.65%",0.6979723072136078,0.7936068598719201,0.09563455265831233,"13.7%"
+"public java.util.List retrofit.client.Request.getHeaders()",46164,51955,5791,"12.54%",2.3940258258569727,2.8196570064039945,0.42563118054702187,"17.78%"
+"java.lang.Object()",0,1,1,"INF%",0.0,5.4271138608488005e-05,5.4271138608488005e-05,"INF%"
