@@ -1,0 +1,9 @@
+Methods called,Number of times(Original),Number of times(Modified),Modified - Original,Percentage(Gain/Loss),Number of times(Original-Normalized),Number of times(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+"public static final com.squareup.okhttp.internal.bytes.Deadline com.squareup.okhttp.internal.bytes.Deadline.NONE",25644,24383,-1261,"-4.92%",0.9960382195292473,0.9988120596427986,0.002773840113551307,"0.28%"
+"com.squareup.okhttp.internal.bytes.GzipSource(com.squareup.okhttp.internal.bytes.Source)",1,1,0,"0.0%",3.884098500737979e-05,4.096346059315091e-05,2.1224755857711204e-06,"5.46%"
+"public com.squareup.okhttp.internal.bytes.Deadline com.squareup.okhttp.internal.bytes.Deadline.start(long|java.util.concurrent.TimeUnit)",14782,14018,-764,"-5.17%",0.574147440379088,0.5742257905947894,7.835021570135048e-05,"0.01%"
+"public boolean com.squareup.okhttp.internal.bytes.Deadline.reached()",183533,185903,2370,"1.29%",7.128602501359435,7.615230214648533,0.4866277132890984,"6.83%"
+"public final native java.lang.Class java.lang.Object.getClass()",7788,7372,-416,"-5.34%",0.30249359123747377,0.3019826314927085,-0.0005109597447652825,"-0.17%"
+"public void com.squareup.okhttp.internal.bytes.Deadline.throwIfReached() throws java.io.IOException",184645,199719,15074,"8.16%",7.171793676687641,8.181181386203507,1.0093877095158659,"14.07%"
+"java.lang.Object()",1,1,0,"0.0%",3.884098500737979e-05,4.096346059315091e-05,2.1224755857711204e-06,"5.46%"
+"com.squareup.okhttp.internal.bytes.Deadline()",100,27,-73,"-73.0%",0.0038840985007379787,0.0011060134360150746,-0.002778085064722904,"-71.52%"
