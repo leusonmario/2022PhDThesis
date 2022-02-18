@@ -1,0 +1,7 @@
+Classes of objects created,Number of objects created(Original),Number of objects created(Modified),Modified - Original,Percentage(Gain/Loss),Number of unique objects manipulated(Original),Number of unique objects manipulated(Modified),Modified - Original,Percentage(Gain/Loss),Number of objects created(Original-Normalized),Number of objects created(Modified-Normalized),Modified - Original,Percentage(Gain/Loss),Number of unique objects manipulated(Original-Normalized),Number of unique objects manipulated(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+class java.lang.Object,1,1,0,"0.0%",1,1,0,"0.0%",0.004651162790697674,0.004651162790697674,0.0,"0.0%",0.004651162790697674,0.004651162790697674,0.0,"0.0%"
+class java.lang.String,6,6,0,"0.0%",6,6,0,"0.0%",0.027906976744186046,0.027906976744186046,0.0,"0.0%",0.027906976744186046,0.027906976744186046,0.0,"0.0%"
+class java.lang.Integer,2,2,0,"0.0%",2,2,0,"0.0%",0.009302325581395349,0.009302325581395349,0.0,"0.0%",0.009302325581395349,0.009302325581395349,0.0,"0.0%"
+class java.lang.Class,5,5,0,"0.0%",2,2,0,"0.0%",0.023255813953488372,0.023255813953488372,0.0,"0.0%",0.009302325581395349,0.009302325581395349,0.0,"0.0%"
+class org.apache.storm.kafka.spout.KafkaSpoutConfig$FirstPollOffsetStrategy,4,4,0,"0.0%",4,4,0,"0.0%",0.018604651162790697,0.018604651162790697,0.0,"0.0%",0.018604651162790697,0.018604651162790697,0.0,"0.0%"
+class java.lang.Long,2,2,0,"0.0%",2,2,0,"0.0%",0.009302325581395349,0.009302325581395349,0.0,"0.0%",0.009302325581395349,0.009302325581395349,0.0,"0.0%"
