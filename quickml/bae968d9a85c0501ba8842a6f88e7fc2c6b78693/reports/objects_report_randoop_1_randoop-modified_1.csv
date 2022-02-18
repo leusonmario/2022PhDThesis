@@ -1,0 +1,4 @@
+Classes of objects created,Number of objects created(Original),Number of objects created(Modified),Modified - Original,Percentage(Gain/Loss),Number of unique objects manipulated(Original),Number of unique objects manipulated(Modified),Modified - Original,Percentage(Gain/Loss),Number of objects created(Original-Normalized),Number of objects created(Modified-Normalized),Modified - Original,Percentage(Gain/Loss),Number of unique objects manipulated(Original-Normalized),Number of unique objects manipulated(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+class java.lang.Object,1,1,0,"0.0%",1,1,0,"0.0%",0.5,0.5,0.0,"0.0%",0.5,0.5,0.0,"0.0%"
+class java.lang.Class,2,2,0,"0.0%",2,2,0,"0.0%",1.0,1.0,0.0,"0.0%",1.0,1.0,0.0,"0.0%"
+class quickdt.experiments.OutOfTimeCrossValidatorRunner,1,1,0,"0.0%",1,1,0,"0.0%",0.5,0.5,0.0,"0.0%",0.5,0.5,0.0,"0.0%"

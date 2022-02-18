@@ -1,0 +1,10 @@
+Methods called,Number of times(Original),Number of times(Modified),Modified - Original,Percentage(Gain/Loss),Number of times(Original-Normalized),Number of times(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+"quickdt.data.AbstractInstance[0]",361,361,0,"0.0%",0.33210671573137074,0.33210671573137074,0.0,"0.0%"
+"quickdt.experiments.OutOfTimeCrossValidatorRunner()",1,1,0,"0.0%",0.0009199632014719411,0.0009199632014719411,0.0,"0.0%"
+"public static org.slf4j.Logger quickdt.experiments.OutOfTimeCrossValidatorRunner.logger",1,1,0,"0.0%",0.0009199632014719411,0.0009199632014719411,0.0,"0.0%"
+"public static quickdt.predictiveModels.randomForest.RandomForest quickdt.experiments.OutOfTimeCrossValidatorRunner.getRandomForest(java.util.List|int|int)",722,722,0,"0.0%",0.6642134314627415,0.6642134314627415,0.0,"0.0%"
+"public static boolean java.util.Collections.addAll(java.util.Collection|java.lang.Object[])",361,361,0,"0.0%",0.33210671573137074,0.33210671573137074,0.0,"0.0%"
+"public static quickdt.predictiveModels.PredictiveModelBuilder quickdt.experiments.OutOfTimeCrossValidatorRunner.getRandomForestBuilder(int|int)",361,361,0,"0.0%",0.33210671573137074,0.33210671573137074,0.0,"0.0%"
+"java.lang.Object()",1,1,0,"0.0%",0.0009199632014719411,0.0009199632014719411,0.0,"0.0%"
+"public final native java.lang.Class java.lang.Object.getClass()",363,363,0,"0.0%",0.33394664213431463,0.33394664213431463,0.0,"0.0%"
+"java.util.ArrayList()",361,361,0,"0.0%",0.33210671573137074,0.33210671573137074,0.0,"0.0%"
