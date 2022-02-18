@@ -1,0 +1,12 @@
+Methods called,Number of times(Original),Number of times(Modified),Modified - Original,Percentage(Gain/Loss),Number of times(Original-Normalized),Number of times(Modified-Normalized),Modified - Original,Percentage(Gain/Loss)
+"org.webbitserver.netty.WebSocketClient$HandshakeChannelHandler(org.webbitserver.netty.WebSocketClient| [B)",19532,19532,0,"0.0%",0.9998976144158902,0.9998976144158902,0.0,"0.0%"
+"org.webbitserver.netty.WebSocketClient$HandshakeChannelHandler(org.webbitserver.netty.WebSocketClient)",1,1,0,"0.0%",5.1192792054878675e-05,5.1192792054878675e-05,0.0,"0.0%"
+"byte[0]",1,1,0,"0.0%",5.1192792054878675e-05,5.1192792054878675e-05,0.0,"0.0%"
+"byte[5]",3125,3125,0,"0.0%",0.15997747517149585,0.15997747517149585,0.0,"0.0%"
+"byte[6]",15625,15625,0,"0.0%",0.7998873758574793,0.7998873758574793,0.0,"0.0%"
+"java.lang.Object()",1,1,0,"0.0%",5.1192792054878675e-05,5.1192792054878675e-05,0.0,"0.0%"
+"public final native java.lang.Class java.lang.Object.getClass()",1,1,0,"0.0%",5.1192792054878675e-05,5.1192792054878675e-05,0.0,"0.0%"
+"byte[1]",5,5,0,"0.0%",0.00025596396027439337,0.00025596396027439337,0.0,"0.0%"
+"byte[2]",25,25,0,"0.0%",0.0012798198013719668,0.0012798198013719668,0.0,"0.0%"
+"byte[3]",125,125,0,"0.0%",0.006399099006859834,0.006399099006859834,0.0,"0.0%"
+"byte[4]",625,625,0,"0.0%",0.03199549503429917,0.03199549503429917,0.0,"0.0%"
